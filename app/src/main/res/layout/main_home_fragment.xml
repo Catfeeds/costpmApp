@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?android:attr/selectableItemBackground">
+
+    <GridLayout
+        android:id="@+id/gl_homepage_voice_photo"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_weight="1.4"
+        android:background="?attr/colorPrimary"
+        android:columnCount="3"
+        android:rowCount="1"
+        >
+
+        <Button
+            android:id="@+id/take_Vioce_btn"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:background="?attr/pic_voice"
+            android:onClick="takeVoice"
+            android:layout_row="0"
+            android:layout_column="0"
+            android:gravity="center"
+            android:padding="@dimen/activity_horizontal_margin"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/home_page_name"
+            android:layout_column="1"
+            android:textSize="@dimen/font_size_title"
+            android:layout_row="0"
+            android:textColor="?attr/text_cl"
+            android:gravity="center"
+            />
+        <Button
+            android:id="@+id/button"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:background="?attr/pic_camera"
+            android:onClick="takePhote"
+            android:layout_row="0"
+            android:layout_column="2"
+            android:gravity="center"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="@dimen/activity_horizontal_margin"/>
+    </GridLayout>
+
+    <com.fudan.cosmosapp.widget.LoadListView
+        android:id="@+id/listview_home_page"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/gl_homepage_voice_photo"
+        android:layout_weight="13"
+
+        android:background="@color/white"
+        />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/tv_des"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:visibility="gone"
+            android:text="加载失败"/>
+
+        <ProgressBar
+            android:id="@+id/progress_bar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            />
+    </FrameLayout>
+
+</RelativeLayout>

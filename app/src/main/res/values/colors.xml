@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--绿色-->
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#F1F1F4</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimaryLight">#eeeeee</color>
+
+
+    <!--白色主题-->
+    <color name="colorPrimaryBlack">#ff0000</color>
+    <color name="colorPrimaryBlackLight">#FA3D23</color>
+    <color name="colorPrimaryDarkBlack">#e51c23</color>
+    <color name="colorAccentBlack">#ffffff</color>
+    <color name="window_background">#fde0dc</color>
+
+    <!--蓝色主题-->
+    <color name="colorPrimaryBlue">#7e57c2</color>
+    <color name="colorPrimaryBlueLight">#936FD6</color>
+    <color name="colorPrimaryDarkBlue">#673ab7</color>
+    <color name="colorAccentBlue">#FF4081</color>
+    <color name="light_blue">#7e57c2</color>
+    <color name="green">#A9D88F</color>
+
+
+    <!--其他-->
+    <color name="yellow">#ede53f</color>
+    <color name="dark_gray">#dbdbdc</color>
+    <color name="gray">#dddde6</color>
+    <color name="light_gray">#55dddde6</color>
+
+    <color name="text_green">#31FA64</color>
+    <color name="black">#02070b</color>
+    <color name="white">#ffffff</color>
+    <color name="white_green">#eef</color>
+    <color name="red">#ff0000</color>
+    <color name="dark_white">#F5F5F5</color>
+
+
+    <color name="blue">#1e88e5</color>
+    <color name="text_black">#bb000000</color>
+
+    <color name="scroll_thmb">#99DDF9FF</color>
+    <color name="toast_bg">#FFF3D7</color>
+    <color name="toast_bg_press">#FF7900</color>
+    <color name="viewPager_bg_green" >#F1F1F4</color>
+
+</resources>

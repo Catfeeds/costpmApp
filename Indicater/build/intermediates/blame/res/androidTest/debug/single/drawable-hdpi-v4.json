@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\muti_tab_item_bg_select.9.png",
+        "source": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\muti_tab_item_bg_select.9.png"
+    },
+    {
+        "merged": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_selected_focused_holo.9.png",
+        "source": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_selected_pressed_holo.9.png",
+        "source": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_holo.9.png",
+        "source": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_pressed_holo.9.png",
+        "source": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_selected_holo.9.png",
+        "source": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_focused_holo.9.png",
+        "source": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_unselected_focused_holo.9.png"
+    }
+]

@@ -1,0 +1,31 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="homepagelistview_margin">8dp</dimen>
+
+    <dimen name="font_size_title">16sp</dimen>
+    <dimen name="font_size_navg">12sp</dimen>
+
+    <dimen name="font_size_first">16sp</dimen>
+    <dimen name="font_size_secnod">12sp</dimen>
+
+    <dimen name="large_font">20dp</dimen>
+    <dimen name="middle_large_font">18dp</dimen>
+    <dimen name="middle_small_font">16dp</dimen>
+    <dimen name="small_font">14dp</dimen>
+
+    <dimen name="font_size_third">8sp</dimen>
+
+    <dimen name="image_size_hight_listView_news_max">160dp</dimen>
+    <dimen name="image_size_width_listView_news_max">120dp</dimen>
+    <dimen name="image_size_hight_listView_news_min">140dp</dimen>
+    <dimen name="image_size_width_listView_news_min">100dp</dimen>
+
+    <dimen name="popwindows_height">60dp</dimen>
+
+    <dimen name="sp_20">20sp</dimen>
+    <dimen name="question_detail_margenEnd">16dp</dimen>
+
+</resources>

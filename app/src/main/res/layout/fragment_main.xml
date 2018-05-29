@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar_fragment_main"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_gravity="center_horizontal"
+        android:background="?attr/colorPrimary"
+        android:weightSum="1"
+        app:theme="@style/ThemeOverlay.AppCompat.Dark">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <android.support.v7.widget.AppCompatSpinner
+                android:id="@+id/spinner_fragment_main_grade"
+                android:layout_width="120dp"
+                android:layout_height="match_parent"
+                android:background="?attr/colorPrimary"/>
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="一课"
+                android:textColor="?attr/text_cl"
+                android:textSize="@dimen/sp_20" />
+
+            <View
+                android:layout_width="60dp"
+                android:layout_height="match_parent" />
+        </LinearLayout>
+
+    </android.support.v7.widget.Toolbar>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <android.support.design.widget.TabLayout
+            android:id="@+id/tab_main_subject"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:background="?attr/colorPrimaryLight"
+            app:tabIndicatorColor="@android:color/holo_orange_light"
+            app:tabIndicatorHeight="4dp"
+            app:tabSelectedTextColor="@android:color/holo_orange_light"
+            app:tabTextAppearance="@android:style/TextAppearance.Holo.Large"
+            app:tabTextColor="@color/text_black" />
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/vp_main"
+            android:layout_below="@+id/tab_main_subject"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="?attr/viewPager_bg" />
+
+        <ProgressBar
+            android:id="@+id/progress_bar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="gone"
+            android:layout_centerInParent="true"/>
+
+        <TextView
+            android:id="@+id/tv_des"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/progress_bar"
+            android:layout_centerInParent="true"
+            android:text="加载异常"/>
+        <Button
+            android:id="@+id/btn_res"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:background="@drawable/selector_bg_search"
+            android:textSize="16sp"
+            android:textColor="@drawable/selector_txt_search"
+            android:text="重新加载"
+            android:layout_below="@id/tv_des"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="8dp"
+            />
+
+    </RelativeLayout>
+
+</LinearLayout>

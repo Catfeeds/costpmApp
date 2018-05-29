@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:orientation="horizontal"
+    android:background="@color/white"
+    android:gravity="center_vertical">
+
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:textSize="16sp"
+        android:layout_margin="10dp"
+        android:layout_weight="1"
+        android:textColor="@color/black"
+        android:gravity="center_vertical"
+        android:text="天气好吗"/>
+
+    <Button
+        android:id="@+id/btn_enter"
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:background="@drawable/selector_bg_search"
+        android:textColor="@drawable/selector_txt_search"
+        android:layout_margin="8dp"
+        android:text="查看原文"/>
+
+</LinearLayout>

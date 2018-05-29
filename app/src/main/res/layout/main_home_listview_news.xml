@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/selector_home_list_item"
+    android:minHeight="100dp"
+    android:padding="@dimen/homepagelistview_margin">
+
+    <ImageView
+        android:id="@+id/iv_home_listview_newsImage"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:adjustViewBounds="true"
+        android:maxHeight="@dimen/image_size_hight_listView_news_max"
+        android:maxWidth="@dimen/image_size_width_listView_news_max"
+        android:minHeight="@dimen/image_size_hight_listView_news_min"
+        android:minWidth="@dimen/image_size_width_listView_news_min"
+        android:src="@drawable/my1"
+        android:layout_gravity="top"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:layout_weight="1"
+         />
+
+    <RelativeLayout
+        android:id="@+id/parentlayout_news"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_weight="2"
+        >
+        <TextView
+            android:id="@+id/tv_home_listview_news_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="如何生物转CS，并在斯坦福大学三年拿到PhD：独家专访李纪为博士"
+            android:layout_alignParentTop="true"
+            android:maxLines="2"
+            android:ellipsize="end"
+            android:textSize="@dimen/font_size_first"
+            android:layout_marginBottom="@dimen/homepagelistview_margin"/>
+        <TextView
+            android:id="@+id/tv_home_listview_news_content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tv_home_listview_news_title"
+            android:text="在人工智能逐渐成为热点的今天，各家科技公司与机构对于相关人才的需求也在不断增大。然而，机器学习目前仍是一个门槛很高的领域"
+            android:maxLines="1"
+            android:ellipsize="end"
+            android:layout_above="@+id/tv_home_listview_news_viewNum"
+            android:textSize="@dimen/font_size_secnod"
+            android:layout_marginBottom="@dimen/homepagelistview_margin"/>
+        <TextView
+            android:id="@+id/tv_home_listview_news_viewNum"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="浏览量"
+            android:textSize="@dimen/font_size_third"
+            android:layout_alignParentBottom="true"
+            />
+
+    </RelativeLayout>
+
+
+
+
+</LinearLayout>

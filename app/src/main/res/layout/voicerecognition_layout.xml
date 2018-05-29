@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    >
+
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:layout_weight="25"
+        android:gravity="top"
+        android:background="@drawable/edit_bg"
+        android:layout_margin="5dp"
+        android:textCursorDrawable="@null"
+        />
+
+
+    <Button
+        android:id="@+id/buttonStartVoiceRecognition"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="147dp"
+        tools:layout_editor_absoluteY="81dp"
+        android:background="@color/colorPrimaryDark"
+        android:onClick="onClick"
+        android:text="开始说话"
+        android:layout_margin="5dp"
+        />
+
+
+</LinearLayout>

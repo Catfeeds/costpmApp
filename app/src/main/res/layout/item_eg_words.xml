@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="45dp"
+    android:padding="8dp"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/tv_eg_words"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:paddingLeft="8dp"
+        android:text="text"
+        android:gravity="center_vertical"
+        android:textSize="16sp"/>
+
+    <Button
+        android:id="@+id/btn_words_detail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="查看释义"
+        android:paddingRight="8dp"
+        android:background="@drawable/selector_word_detail_btn"/>
+</LinearLayout>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="?attr/layout_bg"
+    tools:context="com.fudan.cosmosapp.ui.discover.FB_EnglishComposition_Activity">
+
+    <!--搜索栏-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?attr/layout_bg"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:text="@string/composition_search_text"
+            android:textColor="?attr/text_cl"
+            android:textSize="30dp"
+            android:gravity="center"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:layout_marginBottom="40dp"
+            android:background="@drawable/fb_composition_search_corner"
+            android:orientation="horizontal">
+
+            <!--android:textColor="@color/black"-->
+            <EditText
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="10dp"
+                android:layout_weight="7"
+                android:background="@null"
+                android:hint="@string/composition_search_hint"
+                android:textColor="?attr/text_cl"
+                android:textColorHint="@color/dark_gray"
+                android:textSize="18dp" />
+
+            <ImageButton
+                android:id="@+id/en_composition_search_btn"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@null"
+                android:src="@android:drawable/ic_search_category_default" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="1dp"
+        android:background="?attr/layout_bg">
+
+        <!--android:textColor="@android:color/background_dark-->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/excellent_composition"
+            android:padding="10dp"
+            android:textSize="14dp"
+            android:background="?attr/layout_bg"
+            android:layout_marginLeft="20dp"
+            android:textColor="?attr/text_cl"/>
+
+    </LinearLayout>
+
+    <!--文章推荐列表-->
+    <ListView
+        android:id="@+id/english_composition_listview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="?attr/layout_bg"
+        android:background="@color/white"></ListView>
+
+
+</LinearLayout>

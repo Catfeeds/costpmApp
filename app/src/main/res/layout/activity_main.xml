@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.fudan.cosmosapp.ui.MainActivity"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+
+        <GridLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1.4"
+            android:background="?attr/colorPrimary"
+            android:columnCount="3"
+            android:rowCount="1"
+            android:visibility="gone"
+            >
+
+            <Button
+                android:id="@+id/take_Vioce_btn"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:background="@drawable/home_page_voice_image"
+                android:onClick="takeVoice"
+                android:layout_row="0"
+                android:layout_column="0"
+                android:gravity="center"
+                android:padding="@dimen/activity_horizontal_margin"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="@dimen/activity_horizontal_margin"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="@string/home_page_name"
+                android:layout_column="1"
+                android:textSize="@dimen/font_size_title"
+                android:layout_row="0"
+                android:gravity="center"
+                />
+            <Button
+                android:id="@+id/button"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:background="@drawable/home_page_takephotoimage"
+                android:onClick="takePhote"
+                android:layout_row="0"
+                android:layout_column="2"
+                android:gravity="center"
+                android:layout_gravity="center_vertical"
+                android:layout_marginRight="@dimen/activity_horizontal_margin"/>
+        </GridLayout>
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/viewPager"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="14"
+            android:background="?attr/layout_bg">
+        </android.support.v4.view.ViewPager>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/dark_gray" >
+        </View>
+
+       <devlight.io.library.ntb.NavigationTabBar
+           android:layout_width="match_parent"
+           android:layout_height="0dp"
+           android:layout_weight="1.6"
+           android:id="@+id/ntb"
+           app:ntb_animation_duration="400"
+           app:ntb_preview_colors="?attr/colorPrimary"
+           app:ntb_badged="false"
+           app:ntb_titled="true"
+           app:ntb_scaled="true"
+           app:ntb_tinted="true"
+           app:ntb_badge_position="center"
+           app:ntb_badge_gravity="bottom"
+           app:ntb_badge_bg_color="#ffff0000"
+           app:ntb_badge_title_color="#ffffffff"
+           app:ntb_badge_use_typeface="false"
+           app:ntb_swiped="true"
+           app:ntb_bg_color="?attr/colorPrimary"
+           app:ntb_icon_size_fraction="0.5"
+           app:ntb_badge_size="10sp"
+           app:ntb_title_size="10sp"/>
+    </LinearLayout>
+</LinearLayout>

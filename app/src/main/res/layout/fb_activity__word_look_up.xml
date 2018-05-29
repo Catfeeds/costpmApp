@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--android:background="@color/dark_gray"-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="?attr/layout_bg"
+    tools:context="com.fudan.cosmosapp.ui.discover.FB_WordLookUpActivity">
+
+    <!--        android:textColor="@android:color/background_dark"-->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?attr/layout_bg"
+        android:gravity="center"
+        android:text="@string/word_lookup"
+        android:textColor="?attr/text_cl"
+        android:textSize="25dp"
+        android:padding="20dp"/>
+
+    <!--搜索栏-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:background="@drawable/fb_composition_search_corner"
+        android:orientation="horizontal">
+
+        <!--android:textColor="@color/black"-->
+        <EditText
+            android:id="@+id/et_word"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_margin="20dp"
+            android:layout_weight="7"
+            android:background="@null"
+            android:hint="@string/word_lookup_hint"
+            android:textColor="?attr/text_cl"
+            android:textColorHint="@color/dark_gray"
+            android:textSize="14dp" />
+
+        <ImageButton
+            android:id="@+id/word_search_btn"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@null"
+            android:src="@android:drawable/ic_search_category_default" />
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?attr/layout_bg"
+        android:text="@string/hot_words"
+        android:padding="15dp"
+        android:textColor="?attr/text_cl"
+        android:layout_marginBottom="1dp"
+        android:textSize="20dp" />
+
+    <!--热门单词栏-->
+    <GridView
+        android:id="@+id/hot_words_gridview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:horizontalSpacing="10dp"
+        android:paddingTop="10dp"
+        android:numColumns="auto_fit"
+        android:stretchMode="columnWidth"
+        android:verticalSpacing="8dp"
+        android:background="?attr/viewPager_bg">
+
+    </GridView>
+
+</LinearLayout>

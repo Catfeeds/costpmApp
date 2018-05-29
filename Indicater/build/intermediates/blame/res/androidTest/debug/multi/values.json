@@ -1,0 +1,967 @@
+[
+    {
+        "outputFile": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 44,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 47,
+                    "endOffset": 143
+                },
+                "from": {
+                    "file": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 47,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 148,
+                    "endColumn": 49,
+                    "endOffset": 193
+                },
+                "from": {
+                    "file": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 148,
+                        "endColumn": 49,
+                        "endOffset": 193
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 198,
+                    "endColumn": 49,
+                    "endOffset": 243
+                },
+                "from": {
+                    "file": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 198,
+                        "endColumn": 49,
+                        "endOffset": 243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 248,
+                    "endColumn": 62,
+                    "endOffset": 306
+                },
+                "from": {
+                    "file": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 248,
+                        "endColumn": 62,
+                        "endOffset": 306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 311,
+                    "endColumn": 59,
+                    "endOffset": 366
+                },
+                "from": {
+                    "file": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 311,
+                        "endColumn": 59,
+                        "endOffset": 366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 371,
+                    "endColumn": 60,
+                    "endOffset": 427
+                },
+                "from": {
+                    "file": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 371,
+                        "endColumn": 60,
+                        "endOffset": 427
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 432,
+                    "endColumn": 66,
+                    "endOffset": 494
+                },
+                "from": {
+                    "file": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 432,
+                        "endColumn": 66,
+                        "endOffset": 494
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 499,
+                    "endColumn": 62,
+                    "endOffset": 557
+                },
+                "from": {
+                    "file": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 499,
+                        "endColumn": 62,
+                        "endOffset": 557
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 562,
+                    "endColumn": 46,
+                    "endOffset": 604
+                },
+                "from": {
+                    "file": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 562,
+                        "endColumn": 46,
+                        "endOffset": 604
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 609,
+                    "endColumn": 71,
+                    "endOffset": 676
+                },
+                "from": {
+                    "file": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 609,
+                        "endColumn": 71,
+                        "endOffset": 676
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 681,
+                    "endColumn": 71,
+                    "endOffset": 748
+                },
+                "from": {
+                    "file": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 681,
+                        "endColumn": 71,
+                        "endOffset": 748
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 753,
+                    "endColumn": 73,
+                    "endOffset": 822
+                },
+                "from": {
+                    "file": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 753,
+                        "endColumn": 73,
+                        "endOffset": 822
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 827,
+                    "endColumn": 73,
+                    "endOffset": 896
+                },
+                "from": {
+                    "file": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 827,
+                        "endColumn": 73,
+                        "endOffset": 896
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 901,
+                    "endColumn": 75,
+                    "endOffset": 972
+                },
+                "from": {
+                    "file": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 901,
+                        "endColumn": 75,
+                        "endOffset": 972
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 977,
+                    "endColumn": 72,
+                    "endOffset": 1045
+                },
+                "from": {
+                    "file": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 977,
+                        "endColumn": 72,
+                        "endOffset": 1045
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1050,
+                    "endColumn": 74,
+                    "endOffset": 1120
+                },
+                "from": {
+                    "file": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1050,
+                        "endColumn": 74,
+                        "endOffset": 1120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1125,
+                    "endColumn": 70,
+                    "endOffset": 1191
+                },
+                "from": {
+                    "file": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1125,
+                        "endColumn": 70,
+                        "endOffset": 1191
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1196,
+                    "endColumn": 78,
+                    "endOffset": 1270
+                },
+                "from": {
+                    "file": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1196,
+                        "endColumn": 78,
+                        "endOffset": 1270
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1275,
+                    "endColumn": 61,
+                    "endOffset": 1332
+                },
+                "from": {
+                    "file": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1275,
+                        "endColumn": 61,
+                        "endOffset": 1332
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1337,
+                    "endColumn": 60,
+                    "endOffset": 1393
+                },
+                "from": {
+                    "file": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1337,
+                        "endColumn": 60,
+                        "endOffset": 1393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1398,
+                    "endColumn": 77,
+                    "endOffset": 1471
+                },
+                "from": {
+                    "file": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1398,
+                        "endColumn": 77,
+                        "endOffset": 1471
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1476,
+                    "endColumn": 78,
+                    "endOffset": 1550
+                },
+                "from": {
+                    "file": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1476,
+                        "endColumn": 78,
+                        "endOffset": 1550
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1555,
+                    "endColumn": 92,
+                    "endOffset": 1643
+                },
+                "from": {
+                    "file": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1555,
+                        "endColumn": 92,
+                        "endOffset": 1643
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1648,
+                    "endColumn": 92,
+                    "endOffset": 1736
+                },
+                "from": {
+                    "file": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1648,
+                        "endColumn": 92,
+                        "endOffset": 1736
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1741,
+                    "endColumn": 107,
+                    "endOffset": 1844
+                },
+                "from": {
+                    "file": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1741,
+                        "endColumn": 107,
+                        "endOffset": 1844
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1849,
+                    "endColumn": 107,
+                    "endOffset": 1952
+                },
+                "from": {
+                    "file": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1849,
+                        "endColumn": 107,
+                        "endOffset": 1952
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 4262,
+                    "endColumn": 61,
+                    "endOffset": 4319
+                },
+                "from": {
+                    "file": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 4262,
+                        "endColumn": 61,
+                        "endOffset": 4319
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 4324,
+                    "endColumn": 67,
+                    "endOffset": 4387
+                },
+                "from": {
+                    "file": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 4324,
+                        "endColumn": 67,
+                        "endOffset": 4387
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 4392,
+                    "endColumn": 62,
+                    "endOffset": 4450
+                },
+                "from": {
+                    "file": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 4392,
+                        "endColumn": 62,
+                        "endOffset": 4450
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 4455,
+                    "endColumn": 64,
+                    "endOffset": 4515
+                },
+                "from": {
+                    "file": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 4455,
+                        "endColumn": 64,
+                        "endOffset": 4515
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 4520,
+                    "endColumn": 65,
+                    "endOffset": 4581
+                },
+                "from": {
+                    "file": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 4520,
+                        "endColumn": 65,
+                        "endOffset": 4581
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 4586,
+                    "endColumn": 66,
+                    "endOffset": 4648
+                },
+                "from": {
+                    "file": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 4586,
+                        "endColumn": 66,
+                        "endOffset": 4648
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 4653,
+                    "endColumn": 77,
+                    "endOffset": 4726
+                },
+                "from": {
+                    "file": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 4653,
+                        "endColumn": 77,
+                        "endOffset": 4726
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 4731,
+                    "endColumn": 89,
+                    "endOffset": 4816
+                },
+                "from": {
+                    "file": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 4731,
+                        "endColumn": 89,
+                        "endOffset": 4816
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 4821,
+                    "endColumn": 72,
+                    "endOffset": 4889
+                },
+                "from": {
+                    "file": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 4821,
+                        "endColumn": 72,
+                        "endOffset": 4889
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 4894,
+                    "endColumn": 68,
+                    "endOffset": 4958
+                },
+                "from": {
+                    "file": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 4894,
+                        "endColumn": 68,
+                        "endOffset": 4958
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 4963,
+                    "endColumn": 64,
+                    "endOffset": 5023
+                },
+                "from": {
+                    "file": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 4963,
+                        "endColumn": 64,
+                        "endOffset": 5023
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 5028,
+                    "endColumn": 67,
+                    "endOffset": 5091
+                },
+                "from": {
+                    "file": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 5028,
+                        "endColumn": 67,
+                        "endOffset": 5091
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 5096,
+                    "endColumn": 65,
+                    "endOffset": 5157
+                },
+                "from": {
+                    "file": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 5096,
+                        "endColumn": 65,
+                        "endOffset": 5157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 5162,
+                    "endColumn": 68,
+                    "endOffset": 5226
+                },
+                "from": {
+                    "file": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 5162,
+                        "endColumn": 68,
+                        "endOffset": 5226
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 5231,
+                    "endColumn": 78,
+                    "endOffset": 5305
+                },
+                "from": {
+                    "file": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 5231,
+                        "endColumn": 78,
+                        "endOffset": 5305
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 5310,
+                    "endColumn": 69,
+                    "endOffset": 5375
+                },
+                "from": {
+                    "file": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 5310,
+                        "endColumn": 69,
+                        "endOffset": 5375
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 5380,
+                    "endColumn": 72,
+                    "endOffset": 5448
+                },
+                "from": {
+                    "file": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 5380,
+                        "endColumn": 72,
+                        "endOffset": 5448
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 5453,
+                    "endColumn": 73,
+                    "endOffset": 5522
+                },
+                "from": {
+                    "file": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 5453,
+                        "endColumn": 73,
+                        "endOffset": 5522
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 5527,
+                    "endLine": 62,
+                    "endColumn": 12,
+                    "endOffset": 5722
+                },
+                "from": {
+                    "file": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 5527,
+                        "endLine": 62,
+                        "endColumn": 12,
+                        "endOffset": 5722
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 5727,
+                    "endLine": 66,
+                    "endColumn": 12,
+                    "endOffset": 5975
+                },
+                "from": {
+                    "file": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 5727,
+                        "endLine": 66,
+                        "endColumn": 12,
+                        "endOffset": 5975
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 5980,
+                    "endLine": 68,
+                    "endColumn": 12,
+                    "endOffset": 6014
+                },
+                "from": {
+                    "file": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 5980,
+                        "endLine": 68,
+                        "endColumn": 12,
+                        "endOffset": 6014
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 6019,
+                    "endLine": 72,
+                    "endColumn": 12,
+                    "endOffset": 6204
+                },
+                "from": {
+                    "file": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 6019,
+                        "endLine": 72,
+                        "endColumn": 12,
+                        "endOffset": 6204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 6209,
+                    "endLine": 83,
+                    "endColumn": 12,
+                    "endOffset": 6806
+                },
+                "from": {
+                    "file": "E:\\WorkSpace\\CosmosApp\\Indicater\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 4,
+                        "startOffset": 6209,
+                        "endLine": 83,
+                        "endColumn": 12,
+                        "endOffset": 6806
+                    }
+                }
+            }
+        ]
+    }
+]

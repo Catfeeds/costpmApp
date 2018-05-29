@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="选择分类"
+            android:gravity="center"
+            android:layout_margin="9dp"/>
+        <!--文章推荐列表-->
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/recycleView_classify"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="?android:attr/selectableItemBackground"
+            android:clipToPadding="false"
+            android:paddingTop="16dp"
+            android:scrollbarThumbVertical="@color/scroll_thmb"
+            android:scrollbars="vertical" />
+
+    </LinearLayout>
+
+    <!--文章推荐列表-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="此类列表"
+            android:gravity="center"
+            android:layout_margin="9dp"/>
+        <!--文章推荐列表-->
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/recycleView_list"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:clipToPadding="false"
+            android:background="?android:attr/selectableItemBackground"
+            android:paddingTop="16dp"
+            android:scrollbarThumbVertical="@color/scroll_thmb"
+            android:scrollbars="vertical" />
+
+        </LinearLayout>
+
+
+</LinearLayout>
